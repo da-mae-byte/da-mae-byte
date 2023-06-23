@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
-https://github-readme-stats.vercel.app/api?username=da-mae-byte
-https://github-readme-stats.vercel.app/api/top-langs/?username=da-mae-byte&layout=compact
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=da-mae-byte)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=da-mae-byte&layout=compact)
 
 <!--
 **da-mae-byte/da-mae-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
